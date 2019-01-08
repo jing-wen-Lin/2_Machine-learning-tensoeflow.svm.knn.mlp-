@@ -1,0 +1,3 @@
+python knn_classifier.py --dataset firearm
+python MLP_classifier.py --dataset firearm
+python svc_classifier.py --dataset firearm

@@ -1,0 +1,3 @@
+knife
+falsegun
+realgun
